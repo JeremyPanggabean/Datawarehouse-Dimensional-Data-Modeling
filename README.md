@@ -118,5 +118,3 @@ WHEN MATCHED THEN
 WHEN NOT MATCHED THEN
   INSERT *
 ```
-
-Feel free to fork, explore, and adapt 🚀
