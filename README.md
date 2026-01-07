@@ -1,4 +1,4 @@
-Data Warehouse Dimensional Data Modeling on Databricks
+# Data Warehouse Dimensional Data Modeling on Databricks
 
 ## Overview
 
@@ -24,7 +24,6 @@ Transactional databases / operational systems
 **Bronze Layer**
 
 * Raw data ingestion
-* Append-only Delta tables
 * Schema preserved from source
 
 ⬇️
