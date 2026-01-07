@@ -68,7 +68,7 @@ Transactional databases / operational systems
 * `dim_branch`
 * `dim_datetime`
 
-Each **fact table** stores business metrics, while **dimension tables** provide descriptive context.
+Each **fact table** stores business metrics on the most granular level, while **dimension tables** provide descriptive context.
 
 This structure ensures:
 
